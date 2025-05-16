@@ -2,7 +2,7 @@
 BleeGleeWee/BleeGleeWee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 # 💫 About Me:
-🚀 About Me  <br>- 👋 Hi, I’m @BleeGleeWee (She/Her). I'm a passionate Computer Science & Engineering student with a keen interest in Artificial Intelligence (AI), Machine Learning (ML), UI/UX Design, and Game Development. <br>- I love solving complex problems, building innovative projects, and continuously learning new technologies.<br>- 🌱 I’m currently working on my personal projects!<br><br>🔬 Experience  <br>- Research Intern @ IIT<br>- AI Intern @ Infosys Springboard<br>- Freelance Work @ Fiverr & Internshala<br><br>
+🚀 About Me  <br>- 👋 Hi, I’m me (She/Her). CSE student with a keen interest in AI/ML, UI/UX Design, and Game Dev. <br>- Building innovative projects, and continuously learning new technologies.<br>- 🌱 Currently working on my personal projects!<br><!---br>🔬 Experience  <br>- Research Intern @ IIT<br>- AI Intern @ Infosys Springboard<br>- Freelance Work @ Fiverr & Internshala<br--><br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuthika471@gmail.com) 
