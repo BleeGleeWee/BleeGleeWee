@@ -1,9 +1,9 @@
 <!---
-BleeGleeWee/BleeGleeWee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BleeGleeWee/BleeGleeWee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile...with a keen interest in AI/ML, UI/UX Design, and Game Dev..
 <!---![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)---!>
 --->
 # 💫 About Me:
-🚀 About Me  <br>- 👋 Hi, I’m me (She/Her). CSE student with a keen interest in AI/ML, UI/UX Design, and Game Dev. <br>- Building innovative projects, and continuously learning new technologies.<br>- 🌱 Currently working on my personal projects!<br><!---br>🔬 Experience  <br>- Research Intern @ IIT<br>- AI Intern @ Infosys Springboard<br>- Freelance Work @ Fiverr & Internshala<br--><br>
+🚀 About Me  <br>- 👋 Hi, I’m me, CSE student. <br>- Building innovative projects, and continuously learning new technologies.<br>- 🌱 Currently working on my personal projects!<br><!---br>🔬 Experience  <br>- Research Intern @ IIT<br>- AI Intern @ Infosys Springboard<br>- Freelance Work @ Fiverr & Internshala<br--><br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuthika471@gmail.com) 
