@@ -31,12 +31,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bleegleewee&" alt="bleegleewee" /></p>
 
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align= "center" src="https://github-profile-trophy.vercel.app/?username=bleegleewee&title=-Issues,-PullRequest,-Reviews,-Experience" alt="bleegleewee" /></a> </p>
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
