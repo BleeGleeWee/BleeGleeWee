@@ -21,7 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bleegleewee&show_icons=true&locale=en&layout=compact" alt="bleegleewee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bleegleewee&show_icons=true&locale=en" alt="bleegleewee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bleegleewee&" alt="bleegleewee" /></p>
 
@@ -37,7 +36,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bleegleewee" alt="bleegleewee" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bleegleewee&title=-Issues,-PullRequest,-Reviews,-Experience" alt="bleegleewee" /></a> </p>
 
 ---
 
@@ -57,4 +56,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=BleeGleeWee&icon=8&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bleegleewee&show_icons=true&locale=en" alt="bleegleewee" /></p>
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
