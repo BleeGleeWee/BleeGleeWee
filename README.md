@@ -42,7 +42,7 @@
 ---
 
 <img src="https://t.bkit.co/w_6855031a057a5.gif" />
-![](https://t.bkit.co/w_6855031a057a5.gif)
+
 
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BleeGleeWee&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
