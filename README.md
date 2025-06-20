@@ -40,6 +40,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bleegleewee" alt="bleegleewee" /></a> </p>
 
 ---
+
+<img src="https://t.bkit.co/w_6855031a057a5.gif" />
+![](https://t.bkit.co/w_6855031a057a5.gif)
+
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BleeGleeWee&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BleeGleeWee&theme=highcontrast&hide_border=false)<br/>
