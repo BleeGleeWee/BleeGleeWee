@@ -5,6 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bleegleewee&label=Profile%20views&color=0e75b6&style=flat" alt="bleegleewee" /> </p>
 
+<p align="right"> 
+![250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4](https://github.com/user-attachments/assets/f293b6c1-97ae-4ed7-a47d-2d2339467cea) 
+</p>
 
 
 ## 🌐 Socials - 📫 How to reach me 
